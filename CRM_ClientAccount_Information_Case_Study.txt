@@ -1,0 +1,156 @@
+Case Study - CRM (Funnel, Account Page)
+
+Your CRM
+View of Your Current Funnel
+
+No Engagement: AdventHealth Orlando Rehab
+Engaged: Baptist Health Jacksonville, Mayo Clinic Florida Memory Care
+Opportunity: Cleveland Clinic Florida Memory Care
+Terms Negotiation: Tampa General Memory Care
+Out for Signature: [None]
+Unqualified: Memorial Healthcare Skilled Nursing
+
+═══════════════════════════════════════════════════════════
+
+Account Pages
+
+Tampa General Memory Care
+Contacts
+Staffing Coordinator: ? ? ?
+Director of Nursing: Charlie Davis
+  Email: charlie@tampageneralmemory.org
+  Phone: (813) 555-2875
+Admin: Bailey Thompson
+  Email: bailey@tampageneralmemory.org
+  Phone: (813) 555-4482
+
+● Sales Stage: Terms Negotiation
+
+● Activity Log
+  ○ Call with DON - 4 days ago
+    ■ Some staffing gaps -
+    ■ "Weekends can be a bit light sometimes, but our local agency mostly covers."
+    ■ "If you want, send something over to Admin and they can take a look."
+    
+  ○ Inbound call from Admin - 1 day ago
+    ■ He wasn't very happy and goes on a bit of a rant. "Not sure why you sent this over - we're not looking to bring on any new agencies and your rates are way too high and I'm not going to sign it."
+    ■ "I only really care about price and you can't beat my local agency on that front."
+    ■ Hung up on me
+
+═══════════════════════════════════════════════════════════
+
+Baptist Health Jacksonville
+Contacts
+HR Director: Bella Cooper
+  Email: bella.cooper@baptistjax.org
+  Phone: (904) 555-2227
+Staffing Coordinator: ? ? ?
+Director of Nursing: ? ? ?
+Admin: ? ? ?
+
+● Sales Stage: Engaged
+
+● Activity Log
+  ○ Outbound call with Bella Cooper - 7 days ago
+    ■ Called to invite her to our Market Takeover event (a job fair where facilities can match with professionals looking for full time work and vice versa) in Phoenix in 2 weeks time. She's interested and says she'll come along.
+    ■ Janet's remit is full-time hiring, reducing recruiter costs and vacancy days.
+    ■ She doesn't own agency/per diem staffing decisions ("Agency goes through Admin, not me.")
+    ■ "Top priorities are weekend reliability and reducing turnover - but from my side that means hiring the right people not more agency."
+    ■ Her challenges include low applicant show rates for interviews; candidates shopping multiple offers; background/credential lag. She complained about third-party recruiter fees.
+
+═══════════════════════════════════════════════════════════
+
+AdventHealth Orlando Rehab
+Contacts
+Staffing Coordinator: Max Riley
+  Email: max.riley@adventhealth.org
+  Phone: (407) 555-4671
+Director of Nursing: Luna Martinez
+  Email: luna.martinez@adventhealth.org
+  Phone: (407) 555-2987
+Admin: ? ? ?
+
+● Sales Stage: No Engagement
+
+● Research Notes
+  ○ Max Riley recently joined from Copperleaf Memory Care
+  ○ CMS surveyed the building 2 months ago and issued two citations (deficiency tag codes: F841 & F842)
+
+● Activity Log
+  ○ [no activity]
+
+═══════════════════════════════════════════════════════════
+
+Memorial Healthcare Skilled Nursing
+Contacts
+Staffing Coordinator: Daisy Morgan
+  Email: daisy.morgan@mhs.net
+  Phone: (954) 555-1275
+Director of Nursing: Rocky Anderson
+  Email: rocky.anderson@mhs.net
+  Phone: (954) 555-3290
+Admin: Molly Fletcher
+  Email: molly.fletcher@mhs.net
+  Phone: (954) 555-4789
+
+● Sales Stage: Unqualified
+
+● Activity Log
+  ○ Outbound call to Daisy Morgan - 12 days ago
+    ■ Yes they use agency but said they 'like ShiftDogs' right now; may revisit options in Q4. Did remark that 'weekends are always tricky.'
+    ■ Building-level decision, Admin decides and signs but often consults with RDO
+
+═══════════════════════════════════════════════════════════
+
+Mayo Clinic Florida Memory Care
+Contacts
+Staffing Coordinator: Sadie Bennett
+  Email: sadie.bennett@mayo.edu
+  Phone: ?
+Director of Nursing: Coco Williams
+  Email: coco.williams@mayo.edu
+  Phone: (904) 555-9952
+Admin: Duke Patterson
+  Email: duke.patterson@mayo.edu
+  Phone: (904) 555-7381
+
+● Sales Stage: Engaged
+
+● Activity Log
+  ○ Outbound call with Coco Williams - 4 days ago
+    ■ Got on really well with her
+    ■ Says they're struggling staffing-wise. "Weekends and last-minute sick calls are where we feel it worst". She's friends with other BlueRiver Directors of Nursing and they're finding it tough too.
+    ■ "You'd have to talk with the RDO at Corporate - they make all the decisions."
+    ■ She added that Corporate are pretty anti-agency right now. They've had bad experiences with siloed agency data that has made it hard to track spend - nightmare for Corp and they overspent their agency budget
+    
+  ○ Outbound call with Duke Patterson - this morning
+    ■ He was out but spoke to his assistant - "He's going to be attending the Long Term Care Admin of the Year awards (Arizona edition) in Central Phoenix tomorrow eve)"
+
+═══════════════════════════════════════════════════════════
+
+IMPORTANT NOTE ABOUT CLEVELAND CLINIC FLORIDA:
+Ryan mentioned that Brianna now has the authority to sign this agreement, not Ashley. This is because the facility urgently needs registered nurses after receiving an F727 citation during a recent CMS audit and they want to work quickly with a partner who can help them.
+
+Cleveland Clinic Florida Memory Care
+Contacts
+Staffing Coordinator: Tucker Hayes
+  Email: tucker.hayes@clevelandclinic.org
+  Phone: (954) 555-3286
+Director of Nursing: Ruby Martinez
+  Email: ruby.martinez@clevelandclinic.org
+  Phone: (954) 555-9075
+Admin: Cooper Blake
+  Email: cooper.blake@clevelandclinic.org
+  Phone: (954) 555-3726
+
+● Sales Stage: Opportunity
+
+● Research Notes
+  ○ Cooper Blake recently joined from Desert Horizon Rehabilitation Center
+
+● Activity Log
+  ○ Outbound call with Tucker Hayes - 3 days ago
+    ■ Great call with him
+    ■ "We're getting 1-star Google reviews about constant staff turnover and they're keeping me up at night. Families bring them up on tours. I need the same faces - not a new person every shift."
+    ■ Says the residents distressed by unfamiliar caregivers (memory care unit)
+    ■ Desperately needs more staff to steady the ship
