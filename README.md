@@ -14,12 +14,12 @@ Produce and submit a document containing the following information:
 
 Written response
 
-Please rank the 6 prospects in the order you’d prioritise them 
-Please explain why you’ve ranked them in that order - be specific
-Keep this to 1-2 pages, please share this as a PDF
+Please rank the 6 prospects in the order you’d prioritise them. 
+Please explain why you’ve ranked them in that order - be specific.
+Keep this to 1-2 pages, please share this as a PDF.
 
 Reasoning
 
-For your top ranked account, please record walk through exactly what you would do to move them forward in the funnel
-Please be specific, and include timelines, clear steps and any other relevant information/actions that you would take 
-Please make sure you explain why the approach you are going to take is the right one
+For your top ranked account, please record walk through exactly what you would do to move them forward in the funnel.
+Please be specific, and include timelines, clear steps and any other relevant information/actions that you would take. 
+Please make sure you explain why the approach you are going to take is the right one.
