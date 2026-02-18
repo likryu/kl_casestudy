@@ -1,6 +1,9 @@
 # kl_casestudy
 Sales Case Study
 Long-term Care Dog Facilities - Territory Case Study 
+
+
+
 While all of the data in this case study is fictional, this exercise mirrors some of the problems you might work on if you join Flash Slothmore’s Sales Team. Take it slow! 
 
 The Exercise
